@@ -1,4 +1,4 @@
-# Git Practice Repo
+# Git Practice Repository
 This is a Sample Repository for the Git course created by Tim Corey.
 
 ## How to Work With Git
