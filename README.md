@@ -1,5 +1,5 @@
 # Git Practice Repo
-This is a Demo Repository for the Git course created by Tim Corey.
+This is a Sample App for the Git course created by Tim Corey.
 
 ## How to Work With Git
 1. git checkout main
