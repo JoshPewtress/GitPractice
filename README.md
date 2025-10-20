@@ -4,6 +4,7 @@ This is a Sample Repository for the Git course created by Tim Corey.
 ## GUIs
 * This change made by VSCode
 * This change made by Visual Studio 2022 Community Edition
+* This change made by GitHub Desktop
 
 ## How to Work With Git
 1. git checkout main
