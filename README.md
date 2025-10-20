@@ -1,6 +1,9 @@
 # Git Practice Repo
 This is a Sample Repository for the Git course created by Tim Corey.
 
+## GUIs
+* This change made by VSCode
+
 ## How to Work With Git
 1. git checkout main
 2. git pull
